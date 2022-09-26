@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**VTGare/VTGare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name's Vlad, nice to meet you. I'm a nerd passionate about programming, nothing special to see here.
 
-Here are some ideas to get you started:
+Profile picture by [Helleve101](https://twitter.com/Helleve101)! Please check them out. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/vtgare)
+  - **VTGare#2220** on Discord
+- 🔭 I’m currently working on Boe Tea, a Discord bot for everything related to artworks!
+- 🌱 I’m currently learning Rust, Python, ML
+
+> " Did you know every time you sigh, a
+little bit of happiness escapes? "
