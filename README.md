@@ -10,5 +10,5 @@ Profile picture by [Helleve101](https://twitter.com/Helleve101)! Please check th
 - 🔭 I’m currently working on Boe Tea, a Discord bot for everything related to artworks!
 - 🌱 I’m currently learning Rust, Python, ML
 
-> " Did you know every time you sigh, a
-little bit of happiness escapes? "
+> "Did you know every time you sigh, a
+little bit of happiness escapes?"
